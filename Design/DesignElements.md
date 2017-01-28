@@ -41,3 +41,11 @@ May Include:
 More ideas are being thought of daily, and implementation may change drastically. This is an ongoing project of mine that I think will help people be more
 aware of deaf culture in Canada and the United States. Any collaboration or if you have any ideas please email me at bryanlavallee@hotmail.com, and please put the 
 subject line to: ASL Application.
+
+
+#Protoype Ideas
+
+Available for Demonstration:
+  - Functioning letter and nubmer sign selection.
+  - Alpha version of sign flashcard tester.
+  - Alpha version of design structure.
