@@ -1,4 +1,4 @@
-"# American-Sign-Language-Learning-Tool-Application" 
+# American-Sign-Language-Learning-Tool-Application
 
 Will cover the documentation leading into the application. 
 
